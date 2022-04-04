@@ -3,12 +3,12 @@ import classes from "./App.module.css";
 import CardItem from "./components/CardItem/CardItem";
 
 const cardImages = [
-  { src: "/public/img/helmet-1.png", matched: false },
-  { src: "/public/img/potion-1.png", matched: false },
-  { src: "/public/img/ring-1.png", matched: false },
-  { src: "/public/img/scroll-1.png", matched: false },
-  { src: "/public/img/shield-1.png", matched: false },
-  { src: "/public/img/sword-1.png", matched: false },
+  { src: "./img/helmet-1.png", matched: false },
+  { src: "./img/potion-1.png", matched: false },
+  { src: "./img/ring-1.png", matched: false },
+  { src: "./img/scroll-1.png", matched: false },
+  { src: "./img/shield-1.png", matched: false },
+  { src: "./img/sword-1.png", matched: false },
 ];
 
 function App() {
@@ -66,7 +66,7 @@ function App() {
 
   return (
     <div className={classes.App}>
-      <h1>Magic Match - SOLO</h1>
+      <h1>Memory Game</h1>
       <button onClick={shuffleCards}>New Game</button>
 
       <div className={classes["card-grid"]}>
