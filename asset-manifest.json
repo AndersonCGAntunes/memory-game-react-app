@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/basicValidation-modalOverlays-react-app/static/css/main.6a5cb480.chunk.css",
-    "main.js": "/basicValidation-modalOverlays-react-app/static/js/main.6c7f83af.chunk.js",
-    "main.js.map": "/basicValidation-modalOverlays-react-app/static/js/main.6c7f83af.chunk.js.map",
-    "runtime-main.js": "/basicValidation-modalOverlays-react-app/static/js/runtime-main.7f4d662d.js",
-    "runtime-main.js.map": "/basicValidation-modalOverlays-react-app/static/js/runtime-main.7f4d662d.js.map",
-    "static/js/2.3721acc4.chunk.js": "/basicValidation-modalOverlays-react-app/static/js/2.3721acc4.chunk.js",
-    "static/js/2.3721acc4.chunk.js.map": "/basicValidation-modalOverlays-react-app/static/js/2.3721acc4.chunk.js.map",
-    "index.html": "/basicValidation-modalOverlays-react-app/index.html",
-    "static/css/main.6a5cb480.chunk.css.map": "/basicValidation-modalOverlays-react-app/static/css/main.6a5cb480.chunk.css.map",
-    "static/js/2.3721acc4.chunk.js.LICENSE.txt": "/basicValidation-modalOverlays-react-app/static/js/2.3721acc4.chunk.js.LICENSE.txt"
+    "main.css": "/memory-game-react-app/static/css/main.6a5cb480.chunk.css",
+    "main.js": "/memory-game-react-app/static/js/main.6c7f83af.chunk.js",
+    "main.js.map": "/memory-game-react-app/static/js/main.6c7f83af.chunk.js.map",
+    "runtime-main.js": "/memory-game-react-app/static/js/runtime-main.35b21d8a.js",
+    "runtime-main.js.map": "/memory-game-react-app/static/js/runtime-main.35b21d8a.js.map",
+    "static/js/2.3721acc4.chunk.js": "/memory-game-react-app/static/js/2.3721acc4.chunk.js",
+    "static/js/2.3721acc4.chunk.js.map": "/memory-game-react-app/static/js/2.3721acc4.chunk.js.map",
+    "index.html": "/memory-game-react-app/index.html",
+    "static/css/main.6a5cb480.chunk.css.map": "/memory-game-react-app/static/css/main.6a5cb480.chunk.css.map",
+    "static/js/2.3721acc4.chunk.js.LICENSE.txt": "/memory-game-react-app/static/js/2.3721acc4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f4d662d.js",
+    "static/js/runtime-main.35b21d8a.js",
     "static/js/2.3721acc4.chunk.js",
     "static/css/main.6a5cb480.chunk.css",
     "static/js/main.6c7f83af.chunk.js"
